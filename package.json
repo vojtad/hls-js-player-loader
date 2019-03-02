@@ -1,0 +1,23 @@
+{
+  "name": "hls-js-player-loader",
+  "version": "1.0.0",
+  "description": "HLS.js player loader.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo No tests && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vojtad/hls-js-player-loader.git"
+  },
+  "keywords": [
+    "hls.js",
+    "hls",
+    "js",
+    "html5",
+    "player"
+  ],
+  "author": "Vojta Drbohlav <vojta.d@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/vojtad/hls-js-player-loader"
+}
