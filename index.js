@@ -6,7 +6,11 @@
     loadedCheckInterval: null,
     listeners: [],
 
-    load: function (callback, version = 'latest') {
+    load: function (callback, version) {
+      if (typeof version === 'undefined') {
+        version = 'latest';
+      }
+
       var _this = this;
       this.listeners.push(callback);
 
