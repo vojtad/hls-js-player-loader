@@ -1,6 +1,6 @@
 {
   "name": "hls-js-player-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HLS.js player loader.",
   "main": "index.js",
   "scripts": {
